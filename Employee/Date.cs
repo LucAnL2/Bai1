@@ -20,7 +20,9 @@ namespace Employee
             {
                 month = 1;
                 Console.WriteLine("Thang {0} vua nhap khong hop lw. Tam thoi da ve 1.", theMonth);
-                Console.WriteLine("Hom nay la test winform");
+
+                Console.WriteLine("Thang {0} vua nhap khong hop l. Tam thoi da ve 1.", theMonth);
+                Console.WriteLine("bi conflict");
             }
             year = theYear;
             day = CheckDay(theDay);
