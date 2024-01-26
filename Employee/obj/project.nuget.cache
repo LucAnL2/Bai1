@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CQ7TF3NoUmL7P822opY1RpxZaoLLfG9CtsByepTonaOZDH6wDnBDgCKHy+a6kusI3nt1FbaQYZmMdoRFLp1SQw==",
+  "dgSpecHash": "XUkzq7AQIfqYBBBUDhGMLCJjry8QS2zyGTMp6o4G1k896SedH7H0auATMWJIxOlFpj7U3xsLV+CqrZdXpuPD4g==",
   "success": true,
-  "projectFilePath": "D:\\c#\\Employee\\Employee\\Employee.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\toanh\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\toanh\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\toanh\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
-    "C:\\Users\\toanh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\LTwindow\\Bai1\\Bai1\\Employee\\Employee.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

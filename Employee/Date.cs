@@ -19,7 +19,8 @@ namespace Employee
             else
             {
                 month = 1;
-                Console.WriteLine("Thang {0} vua nhap khong hop lw. Tam thoi da ve 1.", theMonth);
+                Console.WriteLine("Thang {0} vua nhap khong hop l. Tam thoi da ve 1.", theMonth);
+                Console.WriteLine("bi conflict");
             }
             year = theYear;
             day = CheckDay(theDay);
